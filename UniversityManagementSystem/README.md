@@ -5,7 +5,8 @@
 #### 4- Each employee works in an office.
 <br>
 
-![UniversityManagementSystem-UmlDiagram](https://user-images.githubusercontent.com/118667545/225907011-41296eda-a948-4057-9f4c-d0d73c1dafde.png)
+![UniversityManagementSystem-UmlDiagram](https://user-images.githubusercontent.com/118667545/225991340-0b04d180-fbb7-4142-87a5-974c27f3a244.png)
+
 
 <br>
 
